@@ -21,7 +21,7 @@ dependencies:
 
   # Bioconductor
   - bioconductor-edger
-  - bioconductor-biomar
+  - bioconductor-biomart
   
   # JupyterLab for running notebooks
   - jupyterlab
